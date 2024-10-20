@@ -1,4 +1,4 @@
-
+import React from 'react';
 import AIChatInterface from './components/AIChatInterface';
 import BookManagementDashboard from './components/Dashboard';
 import Destinations from './components/Destinations';
