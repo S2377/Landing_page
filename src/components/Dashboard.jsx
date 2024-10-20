@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { useEffect, useState } from 'react';
 import { Client, Databases } from 'appwrite';  // Import Appwrite SDK
 import './Dashboard.css';  // Import the CSS file

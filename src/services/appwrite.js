@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { Client, Databases, Account } from "appwrite";
 
 const client = new Client();
