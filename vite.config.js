@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
-import ghPages from 'vite-plugin-gh-pages';
+import {ghPages} from 'vite-plugin-gh-pages';
 
 export default defineConfig({
   plugins: [ghPages()],
-  base: 'page_design2',
+  base: 'Landing_page',
 });
